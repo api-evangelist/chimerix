@@ -55,6 +55,11 @@ tags:
 - Clinical Stage
 apis: []
 common:
+- type: ParentCompany
+  url: https://apis.io/providers/jazz-pharmaceuticals/
+  name: Jazz Pharmaceuticals
+  x-relationship: acquired
+  x-evidence: "Chimerix was a publicly traded company (NASDAQ: CMRX) and was acquired by Jazz Pharmaceuticals in 2025, primarily for dordaviprone; the chimerix."
 - type: DomainSecurity
   url: security/chimerix-domain-security.yml
 - type: Website
